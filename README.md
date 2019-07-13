@@ -29,6 +29,6 @@ Este repositorio contiene de hecho dos tipos de ficheros:
 
 - Diversos contenidos, de múltiples autores, publicados en <http://EspectroAutista.Info>.
 
-Per ello, la licencia bajo la que se acoge tan sólo es aplicable al software, y
+Por ello, la licencia bajo la que se acoge tan sólo es aplicable al software, y
 no a esos contenidos recopilados de fuentes públicas en Internet.
 
